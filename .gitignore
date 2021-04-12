@@ -1,7 +1,9 @@
-﻿/[Bb]uild/
+﻿/.idea
+/[Bb]uild/
 /[Ll]ibrary/
 /[Ll]ogs/
-/[Oo]bj/Debug/
+/[Oo]bj/
+/[Tt]emp/
+
 /*.csproj
 /*.sln
-/.idea
