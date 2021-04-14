@@ -7,6 +7,9 @@ public class Location : MonoBehaviour
     [SerializeField] private int x;
     [SerializeField] private int y;
 
+    public int X => x;
+    public int Y => y;
+    
     private void Update()
     {
         var offset = (-size + Vector2.one) / 2;
